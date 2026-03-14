@@ -64,9 +64,9 @@ Repository documenting my daily learning, assignments, and challenges while stud
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Siddhartha-Biswas-coder&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=Siddhartha-Biswas-coder&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
