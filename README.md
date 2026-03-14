@@ -54,11 +54,13 @@ Repository documenting my daily learning, assignments, and challenges while stud
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha-Biswas-coder&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Siddhartha-Biswas-coder&theme=tokyonight&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Biswas-coder&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Biswas-coder&layout=compact&theme=tokyonight)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Siddhartha-Biswas-coder&theme=tokyonight)
 
 ---
 
