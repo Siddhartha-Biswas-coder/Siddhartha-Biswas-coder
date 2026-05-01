@@ -36,6 +36,8 @@ To become a **skilled software developer** and build real-world software product
 - HTML
 - CSS
 - SCSS
+- Javascript
+- React (OnGoing)
 
 ### Tools
 - Git
