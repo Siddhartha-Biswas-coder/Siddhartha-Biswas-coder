@@ -3,60 +3,78 @@
 🎓 B.Tech in Metallurgical & Materials Engineering  
 📍 National Institute of Technology, Durgapur (2024–2028)
 
-💻 Aspiring Software Developer  
-Currently learning **Full Stack Web Development & Data Structures and Algorithms**
+💻 Aspiring Full Stack Developer & AI/ML Engineer  
+Currently learning Full Stack Web Development, Backend Development, and Data Structures & Algorithms
 
 ---
 
 # 💫 About Me
 
 🔭 Currently building  
-Small web development projects while strengthening my **JavaScript fundamentals and problem-solving skills**.
+Frontend and backend projects while strengthening my JavaScript, React, Node.js, and problem-solving skills.
 
-🌱 Currently learning  
-- JavaScript (core + advanced concepts)
+🌱 Currently learning
+
+- Advanced JavaScript
+- React.js
+- Backend Development with Node.js & Express.js
+- REST APIs & Server Deployment
 - Responsive Web Development
 - Data Structures & Algorithms
 
-📚 Learning through  
-- Scrimba Full Stack Developer Career Path  
+📚 Current Ongoing Courses
+
+- Cohort 2.0 — Job Ready AI Powered Cohort (Sheriyans Coding School)
+- Scrimba Full Stack Developer Career Path
 - Striver’s A2Z DSA Sheet
 
 🎯 My Goal  
-To become a **skilled software developer** and build real-world software products.
+To become a skilled Full Stack Developer and AI Engineer capable of building scalable real-world applications.
 
 ---
 
 # 💻 Tech Stack
 
 ### Languages
+
 - JavaScript
 
-### Web Development
-- HTML
-- CSS
-- SCSS
-- Javascript
-- React (OnGoing)
+### Frontend Development
 
-### Tools
+- HTML5
+- CSS3
+- SCSS
+- Tailwind CSS
+- React.js
+- Vite
+
+### Backend Development
+
+- Node.js
+- Express.js
+
+### Tools & Platforms
+
 - Git
 - GitHub
 - VS Code
+- npm
 
 ---
 
 # 🚀 Projects
 
 ### Black Jack Game
+
 A JavaScript-based blackjack game that keeps track of cards and gameplay logic.
 
 ### Cohort 2.0 Learning Journey
-Repository documenting my daily learning, assignments, and challenges while studying modern web development.
+
+Repository documenting my daily learning, assignments, projects, and challenges while studying modern web development and backend development.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Stack Badges
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,14 +82,15 @@ Repository documenting my daily learning, assignments, and challenges while stud
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Siddhartha-Biswas-coder&theme=tokyonight&show_icons=true)
 
@@ -81,7 +100,7 @@ Repository documenting my daily learning, assignments, and challenges while stud
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Siddhartha-Biswas-coder&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
@@ -97,10 +116,5 @@ Repository documenting my daily learning, assignments, and challenges while stud
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_siddhartha.biswas__/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhartha-biswas-616042395/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthabiswas2024@gmail.com)
-
-⭐ *Learning every day and building step by step.*
+- GitHub: https://github.com/Siddhartha-Biswas-coder
+- LinkedIn: Add your LinkedIn profile here
