@@ -54,6 +54,7 @@ To become a skilled Full Stack Developer and AI Engineer capable of building sca
 - Express.js
 - REST APIs
 - Server Deployment
+- MongoDB
 
 ### Tools & Platforms
 
@@ -61,6 +62,7 @@ To become a skilled Full Stack Developer and AI Engineer capable of building sca
 - GitHub
 - VS Code
 - npm
+- MongoDB Compass
 
 ---
 
@@ -87,6 +89,8 @@ Repository documenting my daily learning, assignments, projects, and challenges 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -121,4 +125,4 @@ Repository documenting my daily learning, assignments, projects, and challenges 
 ## 🌐 Socials
 
 - GitHub: https://github.com/Siddhartha-Biswas-coder
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/siddhartha-biswas-616042395/)
