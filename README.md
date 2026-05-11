@@ -4,14 +4,14 @@
 📍 National Institute of Technology, Durgapur (2024–2028)
 
 💻 Aspiring Full Stack Developer & AI/ML Engineer  
-Currently learning Full Stack Web Development, Backend Development, and Data Structures & Algorithms
+Currently learning Full Stack Web Development, Backend Development, Databases, and Data Structures & Algorithms.
 
 ---
 
 # 💫 About Me
 
 🔭 Currently building  
-Frontend and backend projects while strengthening my JavaScript, React, Node.js, and problem-solving skills.
+Frontend and backend projects while strengthening my JavaScript, React.js, Node.js, MongoDB, and problem-solving skills.
 
 🌱 Currently learning
 
@@ -19,6 +19,8 @@ Frontend and backend projects while strengthening my JavaScript, React, Node.js,
 - React.js
 - Backend Development with Node.js & Express.js
 - REST APIs & Server Deployment
+- MongoDB & Mongoose
+- Database Design & CRUD Operations
 - Responsive Web Development
 - Data Structures & Algorithms
 
@@ -53,8 +55,10 @@ To become a skilled Full Stack Developer and AI Engineer capable of building sca
 - Node.js
 - Express.js
 - REST APIs
-- Server Deployment
 - MongoDB
+- Mongoose
+- CRUD Operations
+- Server Deployment
 
 ### Tools & Platforms
 
@@ -62,7 +66,10 @@ To become a skilled Full Stack Developer and AI Engineer capable of building sca
 - GitHub
 - VS Code
 - npm
+- Nodemon
+- Dotenv
 - MongoDB Compass
+- Render
 
 ---
 
@@ -92,6 +99,8 @@ Repository documenting my daily learning, assignments, projects, and challenges 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -126,4 +135,8 @@ Repository documenting my daily learning, assignments, projects, and challenges 
 ## 🌐 Socials
 
 - GitHub: https://github.com/Siddhartha-Biswas-coder
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/siddhartha-biswas-616042395/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/siddhartha-biswas-616042395/)
+
+---
+
+⭐ Always learning, building, and improving.
