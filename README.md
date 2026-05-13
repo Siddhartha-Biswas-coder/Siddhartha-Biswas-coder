@@ -4,21 +4,24 @@
 📍 National Institute of Technology, Durgapur (2024–2028)
 
 💻 Aspiring Full Stack Developer & AI/ML Engineer  
-Currently learning Full Stack Web Development, Backend Development, Databases, and Data Structures & Algorithms.
+Currently learning Full Stack Web Development, Backend Development, Databases, Deployment, Authentication, and Data Structures & Algorithms.
 
 ---
 
 # 💫 About Me
 
 🔭 Currently building  
-Frontend and backend projects while strengthening my JavaScript, React.js, Node.js, MongoDB, and problem-solving skills.
+Frontend and backend projects while strengthening my JavaScript, React.js, Node.js, MongoDB, authentication systems, deployment workflows, and problem-solving skills.
 
 🌱 Currently learning
 
 - Advanced JavaScript
 - React.js
+- Full Stack Development
 - Backend Development with Node.js & Express.js
-- REST APIs & Server Deployment
+- Frontend & Backend Integration
+- REST APIs & Full-Stack Deployment
+- Authentication & JWT Basics
 - MongoDB & Mongoose
 - Database Design & CRUD Operations
 - Responsive Web Development
@@ -31,7 +34,7 @@ Frontend and backend projects while strengthening my JavaScript, React.js, Node.
 - Striver’s A2Z DSA Sheet
 
 🎯 My Goal  
-To become a skilled Full Stack Developer and AI Engineer capable of building scalable real-world applications.
+To become a skilled Full Stack Developer and AI/ML Engineer capable of building scalable real-world applications and intelligent systems.
 
 ---
 
@@ -58,7 +61,11 @@ To become a skilled Full Stack Developer and AI Engineer capable of building sca
 - MongoDB
 - Mongoose
 - CRUD Operations
-- Server Deployment
+- Authentication
+- JWT Basics
+- Frontend & Backend Integration
+- Backend Deployment
+- Full-Stack Deployment
 
 ### Tools & Platforms
 
@@ -78,6 +85,10 @@ To become a skilled Full Stack Developer and AI Engineer capable of building sca
 ### Black Jack Game
 
 A JavaScript-based blackjack game that keeps track of cards and gameplay logic.
+
+### Full Stack Authentication Project
+
+A full-stack application with frontend-backend integration, MongoDB database connection, authentication system, API handling, and deployment.
 
 ### Cohort 2.0 Learning Journey
 
@@ -139,4 +150,4 @@ Repository documenting my daily learning, assignments, projects, and challenges 
 
 ---
 
-⭐ Always learning, building, and improving.
+⭐ Passionate about learning, building, and continuously improving as a developer.
