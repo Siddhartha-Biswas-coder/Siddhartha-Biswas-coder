@@ -4,14 +4,14 @@
 📍 National Institute of Technology, Durgapur (2024–2028)
 
 💻 Aspiring Full Stack Developer & AI/ML Engineer
-Currently learning Full Stack Web Development, Backend Development, Authentication Systems, Databases, Deployment, and Data Structures & Algorithms.
+Currently learning Full Stack Web Development, Backend Development, Authentication Systems, Databases, Deployment, Cloud Media Handling, and Data Structures & Algorithms.
 
 ---
 
 # 💫 About Me
 
 🔭 Currently building
-Frontend and backend projects while strengthening my JavaScript, React.js, Node.js, MongoDB, authentication systems, deployment workflows, and problem-solving skills.
+Frontend and backend projects while strengthening my JavaScript, React.js, Node.js, MongoDB, authentication systems, backend architecture, deployment workflows, and problem-solving skills.
 
 🌱 Currently learning
 
@@ -19,13 +19,18 @@ Frontend and backend projects while strengthening my JavaScript, React.js, Node.
 * React.js
 * Full Stack Development
 * Backend Development with Node.js & Express.js
+* Middleware & Backend Architecture
 * Frontend & Backend Integration
 * REST APIs & Full-Stack Deployment
 * Authentication & Authorization
 * JWT Authentication
+* Cookie-Based Authentication
 * Password Hashing & Security
 * MongoDB & Mongoose
 * Database Design & CRUD Operations
+* File Upload Handling
+* Cloud Media Storage
+* Multer & ImageKit
 * Responsive Web Development
 * Data Structures & Algorithms
 
@@ -42,11 +47,13 @@ To become a skilled Full Stack Developer and AI/ML Engineer capable of building 
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
 * JavaScript
 
-### Frontend Development
+---
+
+## Frontend Development
 
 * HTML5
 * CSS3
@@ -55,23 +62,37 @@ To become a skilled Full Stack Developer and AI/ML Engineer capable of building 
 * React.js
 * Vite
 
-### Backend Development
+---
+
+## Backend Development
 
 * Node.js
 * Express.js
 * REST APIs
+* Middleware
 * MongoDB
+* MongoDB Atlas
 * Mongoose
 * CRUD Operations
 * Authentication & Authorization
 * JWT Authentication
+* Cookie-Based Authentication
 * Password Hashing
 * Protected Routes
+* File Upload Handling
+* Multer
+* ImageKit
+* Cloud Media Storage
+* API Error Handling
+* Backend Architecture
+* MongoDB Relationships
 * Frontend & Backend Integration
 * Backend Deployment
 * Full-Stack Deployment
 
-### Tools & Platforms
+---
+
+## Tools & Platforms
 
 * Git
 * GitHub
@@ -87,15 +108,35 @@ To become a skilled Full Stack Developer and AI/ML Engineer capable of building 
 
 # 🚀 Projects
 
-### Black Jack Game
+## Black Jack Game
 
 A JavaScript-based blackjack game that keeps track of cards and gameplay logic.
 
-### Full Stack Authentication Project
+---
 
-A full-stack application with frontend-backend integration, MongoDB database connection, authentication system, JWT authentication, password hashing, API handling, and deployment.
+## Full Stack Authentication Project
 
-### Cohort 2.0 Learning Journey
+A full-stack application with frontend-backend integration, MongoDB database connection, authentication system, JWT authentication, password hashing, API handling, protected routes, cookies, and deployment.
+
+---
+
+## Instagram Backend Mini Project
+
+A backend-focused social media project featuring:
+
+* User authentication system
+* JWT & cookie-based authentication
+* Image uploads using Multer
+* Cloud image hosting using ImageKit
+* MongoDB database integration
+* Protected post creation APIs
+* User-generated content system
+* Backend folder architecture
+* REST API handling
+
+---
+
+## Cohort 2.0 Learning Journey
 
 Repository documenting my daily learning, assignments, projects, and challenges while studying modern web development and backend development.
 
@@ -122,6 +163,12 @@ Repository documenting my daily learning, assignments, projects, and challenges 
 ![bcrypt](https://img.shields.io/badge/bcrypt-00457C?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=for-the-badge\&logo=auth0\&logoColor=white)
 ![Authorization](https://img.shields.io/badge/Authorization-4B0082?style=for-the-badge\&logo=auth0\&logoColor=white)
+![Cookies](https://img.shields.io/badge/Cookies-6C63FF?style=for-the-badge\&logo=cookiecutter\&logoColor=white)
+
+![Multer](https://img.shields.io/badge/Multer-FF9800?style=for-the-badge\&logo=files\&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-1C1C1C?style=for-the-badge\&logo=imagekit\&logoColor=white)
+![Middleware](https://img.shields.io/badge/Middleware-009688?style=for-the-badge\&logo=express\&logoColor=white)
+![API Error Handling](https://img.shields.io/badge/API%20Error%20Handling-E53935?style=for-the-badge\&logo=bugatti\&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge\&logo=nodemon\&logoColor=white)
