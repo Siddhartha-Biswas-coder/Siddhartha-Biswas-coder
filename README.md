@@ -5,13 +5,16 @@
 
 💻 Aspiring Full Stack Developer & AI/ML Engineer
 
-Currently learning and building projects in:
+Currently learning and building projects involving:
 - Full Stack Web Development
-- Backend Development
+- Frontend & Backend Architecture
 - Authentication Systems
 - Databases
 - Cloud Media Handling
 - Deployment
+- REST APIs
+- State Management
+- Secure Backend Development
 - Data Structures & Algorithms
 
 ---
@@ -22,11 +25,12 @@ Currently learning and building projects in:
 
 - Full Stack Web Applications
 - Backend APIs & Authentication Systems
-- React Frontend Projects
-- MongoDB-based Applications
+- React Frontend Applications
+- MongoDB-Based Projects
+- Social Media Applications
 - Scalable Backend Architectures
 
-I enjoy building real-world applications while improving my problem-solving skills and understanding of modern software development practices.
+I enjoy building real-world applications while continuously improving my understanding of frontend development, backend systems, authentication flows, databases, deployment workflows, and scalable software architecture.
 
 ---
 
@@ -35,10 +39,17 @@ I enjoy building real-world applications while improving my problem-solving skil
 ## Frontend Development
 - Advanced JavaScript
 - React.js
-- SCSS / Tailwind CSS
+- React Router
+- Context API
+- Custom Hooks
+- Axios
+- SCSS / SASS
+- Tailwind CSS
+- Vite
 - Frontend Architecture
-- Responsive Web Design
-- State Management
+- Component-Based Architecture
+- Feature-Based Folder Structure
+- Responsive Web Development
 - Frontend & Backend Integration
 
 ---
@@ -47,15 +58,21 @@ I enjoy building real-world applications while improving my problem-solving skil
 - Node.js
 - Express.js
 - REST APIs
-- Middleware & Backend Architecture
+- Middleware
+- Backend Architecture
+- MVC Architecture
 - Authentication & Authorization
 - JWT Authentication
 - Cookie-Based Authentication
 - Password Hashing & Security
-- MongoDB & Mongoose
-- Database Design & CRUD Operations
+- Protected Routes
 - API Error Handling
+- CRUD Operations
+- MongoDB & Mongoose
+- MongoDB Relationships
+- Database Design
 - Backend Deployment
+- Full Stack Deployment
 
 ---
 
@@ -63,12 +80,14 @@ I enjoy building real-world applications while improving my problem-solving skil
 - Multer
 - ImageKit
 - Cloud Media Storage
+- Multipart Form Data Handling
 
 ---
 
 ## Problem Solving
 - Data Structures & Algorithms
 - Striver’s A2Z DSA Sheet
+- Problem Solving with JavaScript
 
 ---
 
@@ -89,25 +108,37 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 # 💻 Tech Stack
 
 ## 🚀 Languages
+
 - JavaScript
 
 ---
 
 ## 🎨 Frontend Development
+
 - HTML5
 - CSS3
-- SCSS
+- SCSS / SASS
 - Tailwind CSS
 - React.js
+- React Router
+- Context API
+- Custom Hooks
+- Axios
 - Vite
+- Responsive Web Development
+- Frontend Architecture
+- Component-Based Architecture
+- Feature-Based Folder Structure
 
 ---
 
 ## ⚙️ Backend Development
+
 - Node.js
 - Express.js
 - REST APIs
 - Middleware
+- MVC Architecture
 - MongoDB
 - MongoDB Atlas
 - Mongoose
@@ -117,20 +148,27 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 - Cookie-Based Authentication
 - Password Hashing
 - Protected Routes
-- File Upload Handling
-- Multer
-- ImageKit
-- Cloud Media Storage
 - API Error Handling
 - Backend Architecture
 - MongoDB Relationships
+- Database Design
 - Frontend & Backend Integration
 - Backend Deployment
-- Full-Stack Deployment
+- Full Stack Deployment
+
+---
+
+## ☁️ File Upload & Cloud Media
+
+- Multer
+- ImageKit
+- Multipart Form Data
+- Cloud Media Storage
 
 ---
 
 ## 🛠 Tools & Platforms
+
 - Git
 - GitHub
 - VS Code
@@ -146,11 +184,17 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 # 🚀 Projects
 
 ## 🎮 Black Jack Game
-A JavaScript-based blackjack game implementing card logic, score tracking, and interactive gameplay mechanics.
+
+A JavaScript-based blackjack game implementing:
+- Card Logic
+- Score Tracking
+- Interactive Gameplay Mechanics
+- Dynamic DOM Manipulation
 
 ---
 
 ## 🔐 Full Stack Authentication Project
+
 A full-stack authentication application featuring:
 - Frontend & Backend Integration
 - MongoDB Database Connection
@@ -158,34 +202,48 @@ A full-stack authentication application featuring:
 - Password Hashing
 - Protected Routes
 - Cookie-Based Authentication
-- API Handling & Deployment
+- Axios API Handling
+- Persistent Authentication
+- Full Stack Deployment
 
 ---
 
 ## 📸 InstaClone — Full Stack Social Media Application *(Ongoing)*
-A modern Instagram-inspired full-stack project featuring:
 
-### Frontend
+A modern Instagram-inspired full-stack project focused on scalable frontend and backend architecture.
+
+### Frontend Features
 - React + Vite
 - 4 Layer Frontend Architecture
 - Context API State Management
 - Custom Hooks
 - Axios API Layer
 - SCSS Styling System
+- Feature-Based Folder Structure
+- Authentication Flow
+- Route Navigation
 
-### Backend
+### Backend Features
 - JWT Authentication
 - Cookie-Based Authentication
 - Protected APIs
 - MongoDB Integration
 - Multer File Uploads
 - ImageKit Cloud Storage
-- Follow & Like Systems
+- Follow System
+- Like System
 - REST API Architecture
+- MVC Backend Architecture
+- Database Relationships
+- Authentication Middleware
+
+### Current Status
+⚠️ Currently under active development.
 
 ---
 
 ## 📘 Cohort 2.0 Learning Repository
+
 A repository documenting:
 - Daily Learning
 - Assignments
@@ -210,28 +268,59 @@ State Layer
 API Layer
 ```
 
-### 🎨 UI Layer
+---
+
+## 🎨 UI Layer
 Responsible for:
 - Showing UI
 - User Interaction
 - Navigation
 
-### 🪝 Hook Layer
+---
+
+## 🪝 Hook Layer
 Responsible for:
 - Business Logic
 - Connecting UI & APIs
+- Authentication Handling
 
-### 🧠 State Layer
+---
+
+## 🧠 State Layer
 Responsible for:
 - Global State
 - User State
 - Loading State
+- Shared Application State
 
-### 🌐 API Layer
+---
+
+## 🌐 API Layer
 Responsible for:
 - Backend Communication
 - Axios Requests
 - API Handling
+- Request Configuration
+
+---
+
+# 🔄 Authentication Flow (Current Learning)
+
+```text
+User Login/Register
+        ↓
+Frontend Sends Request
+        ↓
+Backend Validates User
+        ↓
+JWT Token Generated
+        ↓
+Token Stored in Cookie
+        ↓
+Protected Routes Verify JWT
+        ↓
+Authenticated User Access Granted
+```
 
 ---
 
@@ -243,20 +332,38 @@ Responsible for:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Middleware](https://img.shields.io/badge/Middleware-009688?style=for-the-badge&logo=express&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-6A1B9A?style=for-the-badge&logo=codeigniter&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-00457C?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=for-the-badge&logo=auth0&logoColor=white)
 ![Authorization](https://img.shields.io/badge/Authorization-4B0082?style=for-the-badge&logo=auth0&logoColor=white)
 ![Cookies](https://img.shields.io/badge/Cookies-6C63FF?style=for-the-badge&logo=cookiecutter&logoColor=white)
+![Protected Routes](https://img.shields.io/badge/Protected%20Routes-8E24AA?style=for-the-badge&logo=shield&logoColor=white)
 
 ![Multer](https://img.shields.io/badge/Multer-FF9800?style=for-the-badge&logo=files&logoColor=white)
 ![ImageKit](https://img.shields.io/badge/ImageKit-1C1C1C?style=for-the-badge&logo=imagekit&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-0288D1?style=for-the-badge&logo=icloud&logoColor=white)
+![API Error Handling](https://img.shields.io/badge/API%20Error%20Handling-E53935?style=for-the-badge&logo=bugatti&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -281,15 +388,15 @@ Responsible for:
 
 ---
 
-# ✍️ Developer Quote
+# ✍️ Random Dev Quote
 
-> “Consistency beats intensity when learning to code.”
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 # 📫 Connect With Me
 
-## 🌐 Social Links
+## 🌐 Socials
 
 - GitHub: https://github.com/Siddhartha-Biswas-coder
 - LinkedIn: https://www.linkedin.com/in/siddhartha-biswas-616042395/
