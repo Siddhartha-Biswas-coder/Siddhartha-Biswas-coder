@@ -1,215 +1,298 @@
 # 👋 Hi, I'm Siddhartha Biswas
 
-🎓 B.Tech in Metallurgical & Materials Engineering
+🎓 B.Tech in Metallurgical & Materials Engineering  
 📍 National Institute of Technology, Durgapur (2024–2028)
 
 💻 Aspiring Full Stack Developer & AI/ML Engineer
-Currently learning Full Stack Web Development, Backend Development, Authentication Systems, Databases, Deployment, Cloud Media Handling, and Data Structures & Algorithms.
+
+Currently learning and building projects in:
+- Full Stack Web Development
+- Backend Development
+- Authentication Systems
+- Databases
+- Cloud Media Handling
+- Deployment
+- Data Structures & Algorithms
 
 ---
 
 # 💫 About Me
 
-🔭 Currently building
-Frontend and backend projects while strengthening my JavaScript, React.js, Node.js, MongoDB, authentication systems, backend architecture, deployment workflows, and problem-solving skills.
+🔭 Currently Building
 
-🌱 Currently learning
+- Full Stack Web Applications
+- Backend APIs & Authentication Systems
+- React Frontend Projects
+- MongoDB-based Applications
+- Scalable Backend Architectures
 
-* Advanced JavaScript
-* React.js
-* Full Stack Development
-* Backend Development with Node.js & Express.js
-* Middleware & Backend Architecture
-* Frontend & Backend Integration
-* REST APIs & Full-Stack Deployment
-* Authentication & Authorization
-* JWT Authentication
-* Cookie-Based Authentication
-* Password Hashing & Security
-* MongoDB & Mongoose
-* Database Design & CRUD Operations
-* File Upload Handling
-* Cloud Media Storage
-* Multer & ImageKit
-* Responsive Web Development
-* Data Structures & Algorithms
+I enjoy building real-world applications while improving my problem-solving skills and understanding of modern software development practices.
 
-📚 Current Ongoing Courses
+---
 
-* Cohort 2.0 — Job Ready AI Powered Cohort (Sheriyans Coding School)
-* Scrimba Full Stack Developer Career Path
-* Striver’s A2Z DSA Sheet
+# 🌱 Currently Learning
 
-🎯 My Goal
-To become a skilled Full Stack Developer and AI/ML Engineer capable of building scalable real-world applications and intelligent systems.
+## Frontend Development
+- Advanced JavaScript
+- React.js
+- SCSS / Tailwind CSS
+- Frontend Architecture
+- Responsive Web Design
+- State Management
+- Frontend & Backend Integration
+
+---
+
+## Backend Development
+- Node.js
+- Express.js
+- REST APIs
+- Middleware & Backend Architecture
+- Authentication & Authorization
+- JWT Authentication
+- Cookie-Based Authentication
+- Password Hashing & Security
+- MongoDB & Mongoose
+- Database Design & CRUD Operations
+- API Error Handling
+- Backend Deployment
+
+---
+
+## File Upload & Cloud Media
+- Multer
+- ImageKit
+- Cloud Media Storage
+
+---
+
+## Problem Solving
+- Data Structures & Algorithms
+- Striver’s A2Z DSA Sheet
+
+---
+
+# 📚 Current Learning Programs
+
+- Cohort 2.0 — Job Ready AI Powered Cohort (Sheriyans Coding School)
+- Scrimba Full Stack Developer Career Path
+- Striver’s A2Z DSA Sheet
+
+---
+
+# 🎯 Career Goal
+
+To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of building scalable real-world applications and intelligent systems.
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
-
-* JavaScript
-
----
-
-## Frontend Development
-
-* HTML5
-* CSS3
-* SCSS
-* Tailwind CSS
-* React.js
-* Vite
+## 🚀 Languages
+- JavaScript
 
 ---
 
-## Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-* Middleware
-* MongoDB
-* MongoDB Atlas
-* Mongoose
-* CRUD Operations
-* Authentication & Authorization
-* JWT Authentication
-* Cookie-Based Authentication
-* Password Hashing
-* Protected Routes
-* File Upload Handling
-* Multer
-* ImageKit
-* Cloud Media Storage
-* API Error Handling
-* Backend Architecture
-* MongoDB Relationships
-* Frontend & Backend Integration
-* Backend Deployment
-* Full-Stack Deployment
+## 🎨 Frontend Development
+- HTML5
+- CSS3
+- SCSS
+- Tailwind CSS
+- React.js
+- Vite
 
 ---
 
-## Tools & Platforms
+## ⚙️ Backend Development
+- Node.js
+- Express.js
+- REST APIs
+- Middleware
+- MongoDB
+- MongoDB Atlas
+- Mongoose
+- CRUD Operations
+- Authentication & Authorization
+- JWT Authentication
+- Cookie-Based Authentication
+- Password Hashing
+- Protected Routes
+- File Upload Handling
+- Multer
+- ImageKit
+- Cloud Media Storage
+- API Error Handling
+- Backend Architecture
+- MongoDB Relationships
+- Frontend & Backend Integration
+- Backend Deployment
+- Full-Stack Deployment
 
-* Git
-* GitHub
-* VS Code
-* npm
-* Nodemon
-* Dotenv
-* Postman
-* MongoDB Compass
-* Render
+---
+
+## 🛠 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- npm
+- Nodemon
+- Dotenv
+- Postman
+- MongoDB Compass
+- Render
 
 ---
 
 # 🚀 Projects
 
-## Black Jack Game
-
-A JavaScript-based blackjack game that keeps track of cards and gameplay logic.
-
----
-
-## Full Stack Authentication Project
-
-A full-stack application with frontend-backend integration, MongoDB database connection, authentication system, JWT authentication, password hashing, API handling, protected routes, cookies, and deployment.
+## 🎮 Black Jack Game
+A JavaScript-based blackjack game implementing card logic, score tracking, and interactive gameplay mechanics.
 
 ---
 
-## Instagram Backend Mini Project
-
-A backend-focused social media project featuring:
-
-* User authentication system
-* JWT & cookie-based authentication
-* Image uploads using Multer
-* Cloud image hosting using ImageKit
-* MongoDB database integration
-* Protected post creation APIs
-* User-generated content system
-* Backend folder architecture
-* REST API handling
+## 🔐 Full Stack Authentication Project
+A full-stack authentication application featuring:
+- Frontend & Backend Integration
+- MongoDB Database Connection
+- JWT Authentication
+- Password Hashing
+- Protected Routes
+- Cookie-Based Authentication
+- API Handling & Deployment
 
 ---
 
-## Cohort 2.0 Learning Journey
+## 📸 InstaClone — Full Stack Social Media Application *(Ongoing)*
+A modern Instagram-inspired full-stack project featuring:
 
-Repository documenting my daily learning, assignments, projects, and challenges while studying modern web development and backend development.
+### Frontend
+- React + Vite
+- 4 Layer Frontend Architecture
+- Context API State Management
+- Custom Hooks
+- Axios API Layer
+- SCSS Styling System
+
+### Backend
+- JWT Authentication
+- Cookie-Based Authentication
+- Protected APIs
+- MongoDB Integration
+- Multer File Uploads
+- ImageKit Cloud Storage
+- Follow & Like Systems
+- REST API Architecture
+
+---
+
+## 📘 Cohort 2.0 Learning Repository
+A repository documenting:
+- Daily Learning
+- Assignments
+- Mini Projects
+- Backend Practice
+- Full Stack Journey
+- Development Notes
+
+---
+
+# 🧩 Frontend Architecture (Current Learning)
+
+I currently follow a clean **4 Layer Frontend Architecture** pattern:
+
+```text
+UI Layer
+   ↓
+Hook Layer
+   ↓
+State Layer
+   ↓
+API Layer
+```
+
+### 🎨 UI Layer
+Responsible for:
+- Showing UI
+- User Interaction
+- Navigation
+
+### 🪝 Hook Layer
+Responsible for:
+- Business Logic
+- Connecting UI & APIs
+
+### 🧠 State Layer
+Responsible for:
+- Global State
+- User State
+- Loading State
+
+### 🌐 API Layer
+Responsible for:
+- Backend Communication
+- Axios Requests
+- API Handling
 
 ---
 
 # 🛠 Tech Stack Badges
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge\&logo=sass\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-10AA50?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-00457C?style=for-the-badge\&logo=securityscorecard\&logoColor=white)
-![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=for-the-badge\&logo=auth0\&logoColor=white)
-![Authorization](https://img.shields.io/badge/Authorization-4B0082?style=for-the-badge\&logo=auth0\&logoColor=white)
-![Cookies](https://img.shields.io/badge/Cookies-6C63FF?style=for-the-badge\&logo=cookiecutter\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-FF6B6B?style=for-the-badge&logo=auth0&logoColor=white)
+![Authorization](https://img.shields.io/badge/Authorization-4B0082?style=for-the-badge&logo=auth0&logoColor=white)
+![Cookies](https://img.shields.io/badge/Cookies-6C63FF?style=for-the-badge&logo=cookiecutter&logoColor=white)
 
-![Multer](https://img.shields.io/badge/Multer-FF9800?style=for-the-badge\&logo=files\&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-1C1C1C?style=for-the-badge\&logo=imagekit\&logoColor=white)
-![Middleware](https://img.shields.io/badge/Middleware-009688?style=for-the-badge\&logo=express\&logoColor=white)
-![API Error Handling](https://img.shields.io/badge/API%20Error%20Handling-E53935?style=for-the-badge\&logo=bugatti\&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF9800?style=for-the-badge&logo=files&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-1C1C1C?style=for-the-badge&logo=imagekit&logoColor=white)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge\&logo=nodemon\&logoColor=white)
-![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge\&logo=dotenv\&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Siddhartha-Biswas-coder\&theme=tokyonight\&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Siddhartha-Biswas-coder&theme=tokyonight&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Biswas-coder\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Biswas-coder&layout=compact&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Siddhartha-Biswas-coder\&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=Siddhartha-Biswas-coder&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Siddhartha-Biswas-coder\&theme=tokyonight\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Siddhartha-Biswas-coder&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-# ✍️ Random Dev Quote
+# ✍️ Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+> “Consistency beats intensity when learning to code.”
 
 ---
 
 # 📫 Connect With Me
 
-## 🌐 Socials
+## 🌐 Social Links
 
-* GitHub: https://github.com/Siddhartha-Biswas-coder
-* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/siddhartha-biswas-616042395/)
+- GitHub: https://github.com/Siddhartha-Biswas-coder
+- LinkedIn: https://www.linkedin.com/in/siddhartha-biswas-616042395/
 
 ---
 
