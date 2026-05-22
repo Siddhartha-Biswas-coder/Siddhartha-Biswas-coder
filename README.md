@@ -17,6 +17,8 @@ Currently learning and building projects involving:
 - State Management
 - Scalable Software Architecture
 - Secure Backend Development
+- Production Deployment
+- Cross-Origin Authentication
 - Data Structures & Algorithms
 
 ---
@@ -32,8 +34,9 @@ Currently learning and building projects involving:
 - React Frontend Applications
 - Scalable Backend Architectures
 - Cloud Media Upload Systems
+- Production-Level Full Stack Projects
 
-I enjoy building real-world projects while continuously improving my understanding of frontend engineering, backend development, databases, authentication flows, scalable architecture, deployment workflows, and software design patterns.
+I enjoy building real-world projects while continuously improving my understanding of frontend engineering, backend development, databases, authentication flows, scalable architecture, deployment workflows, production deployment, and software design patterns.
 
 ---
 
@@ -59,6 +62,8 @@ I enjoy building real-world projects while continuously improving my understandi
 - Reusable UI Systems
 - Frontend & Backend Integration
 - Responsive Web Development
+- SPA Deployment Handling
+- React Router Production Routing
 
 ---
 
@@ -84,6 +89,8 @@ I enjoy building real-world projects while continuously improving my understandi
 - Secure API Development
 - Backend Deployment
 - Full Stack Deployment
+- Production CORS Configuration
+- Cross-Origin Cookie Authentication
 
 ---
 
@@ -144,6 +151,9 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 - Component-Based Architecture
 - Feature-Based Folder Structure
 - State Management
+- React Router Production Routing
+- SPA Deployment Handling
+- Vercel Deployment
 
 ---
 
@@ -172,6 +182,9 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 - Frontend & Backend Integration
 - Backend Deployment
 - Full Stack Deployment
+- CORS Configuration
+- Cross-Origin Authentication
+- Render Deployment
 
 ---
 
@@ -196,39 +209,20 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 - Postman
 - MongoDB Compass
 - Render
+- Vercel
 
 ---
 
-# 🚀 Projects
-
-## 🎮 Black Jack Game
-
-A JavaScript-based blackjack game implementing:
-
-- Card Logic
-- Score Tracking
-- Interactive Gameplay Mechanics
-- Dynamic DOM Manipulation
-
----
-
-## 🔐 Full Stack Authentication Project
-
-A full-stack authentication application featuring:
-
-- Frontend & Backend Integration
-- MongoDB Database Connection
-- JWT Authentication
-- Password Hashing
-- Protected Routes
-- Cookie-Based Authentication
-- Axios API Handling
-- Persistent Authentication
-- Full Stack Deployment
-
----
+# 🚀 Featured Projects
 
 ## 📸 InstaClone — Full Stack Social Media Application
+
+### 🌐 Live Deployment
+
+- Frontend: https://siddhartha-instaclone.vercel.app
+- Backend API: https://siddhartha-instaclone-api.onrender.com
+
+---
 
 A modern Instagram-inspired full-stack project focused on scalable frontend and backend architecture.
 
@@ -249,6 +243,8 @@ A modern Instagram-inspired full-stack project focused on scalable frontend and 
 - Route Navigation
 - Create Post System
 - Global State Handling
+- Protected Frontend Routing
+- Production Deployment on Vercel
 
 ### ⚙️ Backend Features
 
@@ -268,6 +264,21 @@ A modern Instagram-inspired full-stack project focused on scalable frontend and 
 - Database Relationships
 - MongoDB Indexing
 - Cloud Image Optimization
+- Production Deployment on Render
+- Secure CORS Configuration
+
+### 🚀 Production Concepts Learned
+
+- Cross-Origin Cookie Authentication
+- Production CORS Handling
+- React Router 404 Fixes
+- SPA Deployment Handling
+- Frontend ↔ Backend Integration
+- Secure Cookie Configuration
+- Environment Variables
+- Production Deployment Workflow
+- Vercel Deployment
+- Render Deployment
 
 ### 🚀 What I Learned
 
@@ -285,6 +296,34 @@ A modern Instagram-inspired full-stack project focused on scalable frontend and 
 - Reusable Component Design
 - API Layer Structuring
 - Async Operations & Error Handling
+- Production Deployment Workflows
+
+---
+
+## 🔐 Full Stack Authentication Project
+
+A full-stack authentication application featuring:
+
+- Frontend & Backend Integration
+- MongoDB Database Connection
+- JWT Authentication
+- Password Hashing
+- Protected Routes
+- Cookie-Based Authentication
+- Axios API Handling
+- Persistent Authentication
+- Full Stack Deployment
+
+---
+
+## 🎮 Black Jack Game
+
+A JavaScript-based blackjack game implementing:
+
+- Card Logic
+- Score Tracking
+- Interactive Gameplay Mechanics
+- Dynamic DOM Manipulation
 
 ---
 
@@ -377,7 +416,7 @@ Backend Validates User
         ↓
 JWT Token Generated
         ↓
-Token Stored in Cookie
+Token Stored in Secure Cookie
         ↓
 Frontend Automatically Sends Cookie
         ↓
@@ -400,6 +439,8 @@ Authenticated User Access Granted
 - TypeScript
 - System Design Concepts
 - Scalable Production Architectures
+- Docker & Containerization
+- CI/CD Pipelines
 - AI/ML Development
 
 ---
@@ -440,6 +481,9 @@ Authenticated User Access Granted
 ![ImageKit](https://img.shields.io/badge/ImageKit-1C1C1C?style=for-the-badge&logo=imagekit&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-0288D1?style=for-the-badge&logo=icloud&logoColor=white)
 ![CDN Optimization](https://img.shields.io/badge/CDN%20Optimization-1565C0?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
