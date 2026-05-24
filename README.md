@@ -327,6 +327,40 @@ A JavaScript-based blackjack game implementing:
 
 ---
 
+## 😀 AI Face Expression Detection (Minor Practice Project)
+
+### 🌐 Live Deployment
+
+- Live Demo: https://face-expression-detect.vercel.app
+
+A small practice project built using React and Google's MediaPipe Face Landmarker to detect facial expressions in real time through webcam input.
+
+### Features
+
+- Real-time webcam face detection
+- Expression Detection:
+  - Happy 😀
+  - Surprised 😲
+  - Neutral 😐
+- Face landmark tracking using MediaPipe
+- Browser-based AI processing
+
+### Tech Used
+
+- React
+- Vite
+- MediaPipe Tasks Vision
+
+### What I Learned
+
+- Integrating AI/computer vision libraries into React
+- Working with webcam streams in browser
+- Real-time face landmark detection
+- Expression detection using blendshape scores
+- Learning new technologies using documentation, web research, and AI tools
+
+---
+
 ## 📘 Cohort 2.0 Learning Repository
 
 A repository documenting:
@@ -458,6 +492,12 @@ Authenticated User Access Granted
 ![Custom Hooks](https://img.shields.io/badge/Custom_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C6BC0?style=for-the-badge&logo=opencv&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Webcam API](https://img.shields.io/badge/Webcam_API-00897B?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Face Detection](https://img.shields.io/badge/Face_Detection-7B1FA2?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
