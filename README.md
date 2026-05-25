@@ -49,16 +49,11 @@ I enjoy building real-world projects while continuously improving my understandi
 - React Router
 - Context API
 - Custom Hooks
-- Axios
-- SCSS / SASS
-- Tailwind CSS
-- Vite
 - Frontend Architecture
 - Component-Based Architecture
 - Feature-Based Folder Structure
 - State Management
 - Dynamic Rendering
-- Conditional Rendering
 - Reusable UI Systems
 - Frontend & Backend Integration
 - Responsive Web Development
@@ -69,38 +64,45 @@ I enjoy building real-world projects while continuously improving my understandi
 
 ## ⚙️ Backend Development
 
-- Node.js
-- Express.js
-- REST APIs
-- Middleware
+- REST API Design
+- Middleware Architecture
 - MVC Architecture
 - Authentication & Authorization
 - JWT Authentication
 - Cookie-Based Authentication
 - Password Hashing & Security
 - Protected Routes
-- API Error Handling
-- CRUD Operations
-- MongoDB & Mongoose
-- MongoDB Relationships
-- Database Design
+- Database Relationships
 - Backend Architecture
+- Scalable Backend Architecture
 - Async Backend Operations
 - Secure API Development
-- Backend Deployment
-- Full Stack Deployment
+- Frontend & Backend Integration
 - Production CORS Configuration
-- Cross-Origin Cookie Authentication
+- Cross-Origin Authentication
+- Redis-Based Session Management
+- Token Blacklisting
+- Secure Logout Systems
+- Session Invalidation
 
 ---
 
 ## ☁️ File Upload & Cloud Media
 
-- Multer
-- ImageKit
-- Multipart Form Data
+- Multipart Form Data Handling
 - Cloud Media Storage
 - CDN Image Optimization
+- Optimized Media Delivery
+
+---
+
+## 🤖 AI / Computer Vision
+
+- MediaPipe
+- Real-Time Face Detection
+- Face Landmark Detection
+- Face Expression Detection
+- Browser-Based AI Processing
 
 ---
 
@@ -142,18 +144,8 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 - Tailwind CSS
 - React.js
 - React Router
-- Context API
-- Custom Hooks
 - Axios
 - Vite
-- Responsive Web Development
-- Frontend Architecture
-- Component-Based Architecture
-- Feature-Based Folder Structure
-- State Management
-- React Router Production Routing
-- SPA Deployment Handling
-- Vercel Deployment
 
 ---
 
@@ -161,30 +153,14 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 
 - Node.js
 - Express.js
-- REST APIs
-- Middleware
-- MVC Architecture
 - MongoDB
 - MongoDB Atlas
 - Mongoose
-- CRUD Operations
-- Authentication & Authorization
-- JWT Authentication
-- Cookie-Based Authentication
-- Password Hashing
-- Protected Routes
-- API Error Handling
-- Backend Architecture
-- MongoDB Relationships
-- Database Design
-- Async Backend Operations
-- Secure API Development
-- Frontend & Backend Integration
-- Backend Deployment
-- Full Stack Deployment
-- CORS Configuration
-- Cross-Origin Authentication
-- Render Deployment
+- Redis
+- ioredis
+- JWT
+- bcrypt
+- cookie-parser
 
 ---
 
@@ -192,9 +168,13 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 
 - Multer
 - ImageKit
-- Multipart Form Data
-- Cloud Media Storage
-- CDN Image Optimization
+
+---
+
+## 🤖 AI / Computer Vision
+
+- MediaPipe
+- Webcam API
 
 ---
 
@@ -208,6 +188,7 @@ To become a skilled **Full Stack Developer** and **AI/ML Engineer** capable of b
 - Dotenv
 - Postman
 - MongoDB Compass
+- Redis Insight
 - Render
 - Vercel
 
@@ -279,6 +260,9 @@ A modern Instagram-inspired full-stack project focused on scalable frontend and 
 - Production Deployment Workflow
 - Vercel Deployment
 - Render Deployment
+- Secure Logout Systems
+- Token Blacklisting
+- Redis Session Handling
 
 ### 🚀 What I Learned
 
@@ -297,6 +281,10 @@ A modern Instagram-inspired full-stack project focused on scalable frontend and 
 - API Layer Structuring
 - Async Operations & Error Handling
 - Production Deployment Workflows
+- Redis Integration
+- Authentication Session Handling
+- JWT Invalidation
+- Secure Logout Architecture
 
 ---
 
@@ -463,6 +451,9 @@ Authenticated User Access Granted
 
 # 🚀 Currently Improving Towards
 
+- Redis Caching
+- Distributed Session Management
+- Token Blacklisting Systems
 - Advanced Authentication Systems
 - Refresh Tokens & Session Handling
 - Role-Based Authorization
@@ -516,6 +507,11 @@ Authenticated User Access Granted
 ![Authorization](https://img.shields.io/badge/Authorization-4B0082?style=for-the-badge&logo=auth0&logoColor=white)
 ![Cookies](https://img.shields.io/badge/Cookies-6C63FF?style=for-the-badge&logo=cookiecutter&logoColor=white)
 ![Protected Routes](https://img.shields.io/badge/Protected%20Routes-8E24AA?style=for-the-badge&logo=shield&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ioredis](https://img.shields.io/badge/ioredis-B71C1C?style=for-the-badge&logo=redis&logoColor=white)
+![Redis Insight](https://img.shields.io/badge/Redis_Insight-C62828?style=for-the-badge&logo=redis&logoColor=white)
+![Token Blacklisting](https://img.shields.io/badge/Token_Blacklisting-6A1B9A?style=for-the-badge&logo=shield&logoColor=white)
 
 ![Multer](https://img.shields.io/badge/Multer-FF9800?style=for-the-badge&logo=files&logoColor=white)
 ![ImageKit](https://img.shields.io/badge/ImageKit-1C1C1C?style=for-the-badge&logo=imagekit&logoColor=white)
