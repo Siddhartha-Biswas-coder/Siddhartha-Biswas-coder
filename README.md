@@ -114,6 +114,100 @@ I enjoy building real-world applications while continuously learning frontend en
 
 # 🚀 Featured Projects
 
+---
+
+## 🎵 Moodify — AI Powered Emotion Based Music Player
+
+### 🌐 Live Deployment
+
+* Frontend: https://moodify-ai-git-main-siddhartha-biswas-projects.vercel.app
+* Backend API: https://moodify-ai-api.onrender.com
+
+An AI-integrated full-stack music recommendation platform that uses real-time facial emotion detection to dynamically play mood-based songs.
+
+### 🚀 Features
+
+* Real-time Face Expression Detection
+* AI Mood-Based Song Recommendation
+* JWT Authentication
+* Cookie-Based Authentication
+* Protected Routes
+* Redis Token Blacklisting
+* Custom Music Player
+* Playback Speed Control
+* Volume & Seekbar Controls
+* MongoDB Integration
+* ImageKit Cloud Media Storage
+* Production Deployment on Vercel & Render
+* Secure CORS Configuration
+* Responsive UI
+
+### 😀 AI Integration
+
+Moodify uses Google MediaPipe Face Landmarker to detect:
+- Happy 😄
+- Sad 😢
+- Surprised 😲
+
+Detected emotions are dynamically mapped to mood-based music recommendations.
+
+### 🏗️ Tech Stack
+
+#### Frontend
+* React.js
+* React Router
+* SCSS
+* Axios
+* Context API
+* Custom Hooks
+* Vite
+
+#### Backend
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* Redis
+* JWT
+* bcryptjs
+* Multer
+
+#### AI / Computer Vision
+* MediaPipe Face Landmarker
+
+#### Deployment & Cloud
+* Vercel
+* Render
+* MongoDB Atlas
+* Redis Cloud
+* ImageKit
+
+### 🧠 Concepts Learned
+
+* Full Stack Architecture
+* AI + Web Integration
+* Production Authentication Systems
+* Cross-Origin Cookie Authentication
+* Secure CORS Handling
+* Real-Time Browser AI Processing
+* Media Handling Pipelines
+* React Context State Management
+* Production Deployment Workflows
+
+### 🛠️ Challenges Faced
+
+* Cross-origin cookie authentication between Vercel and Render
+* React Router deployment configuration
+* Production CORS handling
+* Webcam permission management
+* Emotion detection accuracy tuning
+
+### 📂 Repository
+
+https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-17-modify
+
+---
+
 ## 📸 InstaClone — Full Stack Social Media Application
 
 ### 🌐 Live Deployment
