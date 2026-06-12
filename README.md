@@ -356,6 +356,12 @@ https://github.com/Siddhartha-Biswas-coder/cohort-2.0
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge\&logo=google\&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C6BC0?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FD5722?style=for-the-badge&logo=mistral&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge&logo=pinecone&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
