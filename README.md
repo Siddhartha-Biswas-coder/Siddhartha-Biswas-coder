@@ -40,6 +40,37 @@
 
 ---
 
+## 🕶️ Lumière — Curated Luxury Fashion Marketplace
+
+> A premium full-stack fashion marketplace built for independent designers and luxury sellers, featuring secure payments, role-based authentication, and a polished editorial-style shopping experience.
+
+### ✨ Highlights
+
+- 🛍️ **Premium Shopping Experience** with a responsive React interface and smooth Framer Motion animations.
+- 🏗️ **Scalable Service/Repository Architecture** separating business logic from database operations.
+- 🛒 **Dynamic Cart System** powered by MongoDB aggregation pipelines for real-time pricing and order summaries.
+- 💳 **Razorpay Integration** with secure HMAC payment verification and transaction tracking.
+- 👤 **Role-Based Authentication** supporting Buyer/Seller accounts, Google OAuth, JWT, and cookie-based sessions.
+- 📦 **Seller Dashboard** for product management, image uploads, and inventory updates.
+
+### 🛠 Tech Stack
+
+**Frontend:** React 19, Vite, Redux Toolkit, Tailwind CSS v4, Framer Motion
+
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, Passport.js, JWT, Zod
+
+**Integrations:** Razorpay, ImageKit
+
+### 🌐 Live Demo
+
+- **Website:** https://lumiere-chi-mocha.vercel.app/
+
+### 📂 Repository
+
+- **GitHub:** https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-27-snitch
+
+---
+
 ## 🎵 Moodify
 
 > AI-powered emotion-based music recommendation platform using real-time facial expression detection.
