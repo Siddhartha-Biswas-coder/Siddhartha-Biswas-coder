@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  I build AI-powered web applications, scalable backend systems, and modern frontend experiences.
-  <br>
-  Currently building <b>Nexus</b>, an AI knowledge platform powered by RAG architecture.
+  I build AI-powered web applications, scalable backend systems, and AI-driven experiences.<br>
+  Currently building <b>Nexus</b>, an intelligent knowledge platform powered by RAG architecture.
 </p>
 
 ---
@@ -27,47 +26,37 @@
 
 ### ✨ Highlights
 
-- 📄 Upload and chat with PDFs
+- 📄 Chat with PDFs using semantic retrieval
 - 🔍 MongoDB Vector Search
-- 🤖 LangGraph AI workflows
-- 🧩 Local Embedding Service (FastAPI)
-- 🔐 Secure Authentication
-- ⚡ Scalable Full Stack Architecture
+- 🤖 LangGraph-powered AI workflows
+- 🧩 Local Embedding Service with FastAPI
+- 🔐 Secure authentication system
+- ⚡ Scalable full-stack architecture
 
-**Tech Stack**
+**Tech:** `React` • `TypeScript` • `Node.js` • `Express` • `FastAPI` • `MongoDB` • `LangGraph` • `Docker`
 
-`React` • `TypeScript` • `Node.js` • `Express` • `FastAPI` • `MongoDB` • `LangGraph` • `Docker`
+**Repository:** https://github.com/Siddhartha-Biswas-coder/NEXUS-Industrial-AI-Platform
 
 ---
 
 ## 🕶️ Lumière — Curated Luxury Fashion Marketplace
 
-> A premium full-stack fashion marketplace built for independent designers and luxury sellers, featuring secure payments, role-based authentication, and a polished editorial-style shopping experience.
+> Premium full-stack marketplace for independent designers and luxury sellers with secure payments and an editorial-style shopping experience.
 
 ### ✨ Highlights
 
-- 🛍️ **Premium Shopping Experience** with a responsive React interface and smooth Framer Motion animations.
-- 🏗️ **Scalable Service/Repository Architecture** separating business logic from database operations.
-- 🛒 **Dynamic Cart System** powered by MongoDB aggregation pipelines for real-time pricing and order summaries.
-- 💳 **Razorpay Integration** with secure HMAC payment verification and transaction tracking.
-- 👤 **Role-Based Authentication** supporting Buyer/Seller accounts, Google OAuth, JWT, and cookie-based sessions.
-- 📦 **Seller Dashboard** for product management, image uploads, and inventory updates.
+- 🛍️ Premium shopping experience with Framer Motion animations
+- 🏗️ Service/Repository architecture for scalable backend design
+- 🛒 Dynamic cart powered by MongoDB aggregation pipelines
+- 💳 Razorpay payment integration with HMAC verification
+- 👤 Buyer/Seller authentication with Google OAuth and JWT
+- 📦 Seller dashboard for product and inventory management
 
-### 🛠 Tech Stack
+**Tech:** `React 19` • `Vite` • `Redux Toolkit` • `Tailwind CSS` • `Node.js` • `Express` • `MongoDB` • `Passport.js` • `JWT`
 
-**Frontend:** React 19, Vite, Redux Toolkit, Tailwind CSS v4, Framer Motion
+**Live Demo:** https://lumiere-chi-mocha.vercel.app/
 
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, Passport.js, JWT, Zod
-
-**Integrations:** Razorpay, ImageKit
-
-### 🌐 Live Demo
-
-- **Website:** https://lumiere-chi-mocha.vercel.app/
-
-### 📂 Repository
-
-- **GitHub:** https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-27-snitch
+**Repository:** https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-27-snitch
 
 ---
 
@@ -75,33 +64,37 @@
 
 > AI-powered emotion-based music recommendation platform using real-time facial expression detection.
 
-### ✨ Features
+### ✨ Highlights
 
-- 😀 Real-time Face Expression Detection
-- 🎧 Mood-Based Song Recommendations
-- 🔐 JWT Authentication
-- ☁️ ImageKit Media Storage
-- ⚡ Redis Token Management
+- 😀 Real-time face expression detection
+- 🎧 Mood-based song recommendations
+- 🔐 JWT authentication
+- ☁️ ImageKit media storage
+- ⚡ Redis token management
 
-🌐 **Live:** https://moodify-ai-git-main-siddhartha-biswas-projects.vercel.app
+**Tech:** `React` • `Node.js` • `MongoDB` • `Redis` • `MediaPipe`
 
-⚙️ **Backend:** https://moodify-ai-api.onrender.com
+**Live Demo:** https://moodify-ai-git-main-siddhartha-biswas-projects.vercel.app
+
+**Backend:** https://moodify-ai-api.onrender.com
 
 ---
 
 ## 📸 InstaClone
 
-> Instagram-inspired full-stack social media application focused on production-ready architecture.
+> Instagram-inspired full-stack social media application built with production-ready architecture.
 
-### ✨ Features
+### ✨ Highlights
 
-- 🔐 Cookie-Based Authentication
-- ❤️ Like & Follow System
-- 📷 Image Uploads with ImageKit
-- ⚡ Redis Session Handling
-- 🚀 Vercel + Render Deployment
+- 🔐 Cookie-based authentication
+- ❤️ Like and Follow system
+- 📷 Image uploads with ImageKit
+- ⚡ Redis session handling
+- 🚀 Vercel and Render deployment
 
-🌐 **Live:** https://siddhartha-instaclone.vercel.app
+**Tech:** `React` • `Express` • `MongoDB` • `Redis`
+
+**Live Demo:** https://siddhartha-instaclone.vercel.app
 
 ---
 
@@ -109,35 +102,33 @@
 
 > Browser-based computer vision project using Google MediaPipe Face Landmarker.
 
-### ✨ Features
+### ✨ Highlights
 
-- 😊 Happy Detection
-- 😲 Surprise Detection
-- 😐 Neutral Detection
-- 📹 Real-Time Webcam Tracking
+- 😊 Happy detection
+- 😲 Surprise detection
+- 😐 Neutral detection
+- 📹 Real-time webcam tracking
 
-🌐 **Live:** https://face-expression-detect.vercel.app
+**Tech:** `React` • `MediaPipe`
+
+**Live Demo:** https://face-expression-detect.vercel.app
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,fastapi,mongodb,redis,docker,git,github,vscode,postman" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,fastapi,mongodb,redis,docker,git,github,vscode,postman" />
 </p>
 
 ### 🤖 AI & ML
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB_Vector_Search-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB_Vector_Search-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -145,13 +136,11 @@
 # 📈 Currently Exploring
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CI/CD-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Advanced_DSA-DC2626?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Advanced_DSA-DC2626?style=for-the-badge"/>
 </p>
 
 ---
@@ -175,7 +164,6 @@
   <a href="https://github.com/Siddhartha-Biswas-coder">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/siddhartha-biswas-616042395/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
