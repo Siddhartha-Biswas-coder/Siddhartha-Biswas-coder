@@ -1,79 +1,188 @@
-# Hi, I'm Siddhartha Biswas
+# 👋 Hi, I'm Siddhartha Biswas
 
-B.Tech in Metallurgical & Materials Engineering at **National Institute of Technology Durgapur** (2024–2028).
+<h3 align="center">Full Stack Developer • AI Enthusiast • Problem Solver</h3>
 
-I'm a Full Stack Developer focused on building AI-powered web applications, scalable backend systems, and modern frontend experiences. Currently building **Nexus**, an AI knowledge platform using RAG architecture.
+<p align="center">
+  <b>B.Tech in Metallurgical & Materials Engineering</b><br>
+  National Institute of Technology Durgapur (2024–2028)
+</p>
 
----
-
-## Tech Stack
-
-**Languages:** JavaScript, TypeScript
-
-**Frontend:** React, Tailwind CSS, Vite, React Router
-
-**Backend:** Node.js, Express.js, FastAPI
-
-**Database:** MongoDB, Redis
-
-**AI:** LangChain, LangGraph, MediaPipe
-
-**Tools:** Docker, Git, GitHub, Postman, Vercel, Render
+<p align="center">
+  I build AI-powered web applications, scalable backend systems, and modern frontend experiences.
+  <br>
+  Currently building <b>Nexus</b>, an AI knowledge platform powered by RAG architecture.
+</p>
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### Nexus *(In Progress)*
+## 🧠 Nexus *(Flagship Project — In Progress)*
 
-AI-powered research and knowledge platform using RAG with local embeddings, MongoDB Vector Search, and LangGraph workflows.
+> AI-powered research and knowledge platform with Retrieval-Augmented Generation (RAG).
 
-**Tech:** React • TypeScript • Node.js • FastAPI • MongoDB • LangGraph
+**Highlights**
+
+- 📄 Upload and chat with PDFs
+- 🔍 MongoDB Vector Search
+- 🤖 LangGraph AI workflows
+- 🧩 Local embedding service (FastAPI)
+- 🔐 Secure authentication
+- ⚡ Scalable full-stack architecture
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `Express` • `FastAPI` • `MongoDB` • `LangGraph` • `Docker`
 
 ---
 
-### Moodify
+## 🎵 Moodify
 
 AI-powered emotion-based music recommendation platform using real-time facial expression detection.
 
-- Live: https://moodify-ai-git-main-siddhartha-biswas-projects.vercel.app
-- Repository: https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-17-modify
+<AsyncImageGroup query={["Moodify AI music player React app screenshot","Moodify AI emotion detection music player interface"]} layout=carousel/>
 
-**Tech:** React • Node.js • MongoDB • Redis • MediaPipe
+**Features**
 
----
+- 😀 Real-time face expression detection
+- 🎧 Mood-based song recommendations
+- 🔐 JWT Authentication
+- ☁️ ImageKit media storage
+- ⚡ Redis token management
 
-### InstaClone
+**Live Demo**
 
-Instagram-inspired full-stack social media application with authentication, cloud media uploads, and scalable backend architecture.
+- 🌐 Frontend: <Link url="https://moodify-ai-git-main-siddhartha-biswas-projects.vercel.app" title="Moodify"/>
+- ⚙️ Backend: <Link url="https://moodify-ai-api.onrender.com" title="API"/>
 
-- Live: https://siddhartha-instaclone.vercel.app
-
-**Tech:** React • Express • MongoDB • Redis • ImageKit
-
----
-
-### AI Face Expression Detection
-
-Browser-based computer vision project using MediaPipe Face Landmarker.
-
-- Live: https://face-expression-detect.vercel.app
-
-**Tech:** React • MediaPipe
+**Tech:** `React` `Node.js` `MongoDB` `Redis` `MediaPipe`
 
 ---
 
-## GitHub Stats
+## 📸 InstaClone
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha-Biswas-coder&theme=tokyonight&show_icons=true)
+Instagram-inspired full-stack social media application focused on production-ready architecture.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Biswas-coder&layout=compact&theme=tokyonight)
+<AsyncImageGroup query={["Instagram clone React app screenshot social media feed","Instagram clone profile page React Vite UI"]} layout=carousel/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Siddhartha-Biswas-coder&theme=tokyonight)
+**Features**
+
+- 🔐 Cookie-based authentication
+- ❤️ Like & Follow system
+- 📷 Image uploads with ImageKit
+- ⚡ Redis session handling
+- 🚀 Vercel + Render deployment
+
+**Live Demo**
+
+- 🌐 <Link url="https://siddhartha-instaclone.vercel.app" title="InstaClone"/>
+
+**Tech:** `React` `Express` `MongoDB` `Redis`
 
 ---
 
-## Connect
+## 😀 AI Face Expression Detection
 
-- **GitHub:** https://github.com/Siddhartha-Biswas-coder
-- **LinkedIn:** https://www.linkedin.com/in/siddhartha-biswas-616042395/
+Browser-based computer vision project using Google MediaPipe Face Landmarker.
+
+<AsyncImageGroup query={["MediaPipe face expression detection React webcam demo","Google MediaPipe Face Landmarker browser demo"]} layout=carousel/>
+
+**Features**
+
+- 😊 Happy detection
+- 😲 Surprise detection
+- 😐 Neutral detection
+- 📹 Real-time webcam tracking
+
+**Live Demo**
+
+- 🌐 <Link url="https://face-expression-detect.vercel.app" title="Demo"/>
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+<row gap=1 wrap=wrap align=center>
+  <badge label=HTML5 />
+  <badge label=CSS3 />
+  <badge label="Tailwind CSS" />
+  <badge label="JavaScript" />
+  <badge label=TypeScript />
+  <badge label=React />
+  <badge label="React Router" />
+  <badge label=Vite />
+</row>
+
+## Backend
+
+<row gap=1 wrap=wrap align=center>
+  <badge label="Node.js" />
+  <badge label=Express />
+  <badge label=FastAPI />
+  <badge label="REST APIs" />
+  <badge label=JWT />
+  <badge label=Redis />
+</row>
+
+## Database & AI
+
+<row gap=1 wrap=wrap align=center>
+  <badge label=MongoDB />
+  <badge label=Mongoose />
+  <badge label=LangChain />
+  <badge label=LangGraph />
+  <badge label=MediaPipe />
+  <badge label=Docker />
+</row>
+
+## Tools
+
+<row gap=1 wrap=wrap align=center>
+  <badge label=Git />
+  <badge label=GitHub />
+  <badge label="VS Code" />
+  <badge label=Postman />
+  <badge label=Vercel />
+  <badge label=Render />
+</row>
+
+---
+
+# 📈 Currently Learning
+
+<row gap=1 wrap=wrap align=center>
+  <badge label="Generative AI" />
+  <badge label="Agentic AI" />
+  <badge label="System Design" />
+  <badge label="Docker" />
+  <badge label="CI/CD" />
+  <badge label="Advanced DSA" />
+</row>
+
+---
+
+# 📊 GitHub Analytics
+
+<grid columns=3><grid-item><AsyncImage src="https://github-readme-stats.vercel.app/api?username=Siddhartha-Biswas-coder&theme=tokyonight&show_icons=true" aspectRatio="1:1" maxHeight=220 width="100%"/></grid-item><grid-item><AsyncImage src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-Biswas-coder&layout=compact&theme=tokyonight" aspectRatio="1:1" maxHeight=220 width="100%"/></grid-item><grid-item><AsyncImage src="https://nirzak-streak-stats.vercel.app/?user=Siddhartha-Biswas-coder&theme=tokyonight" aspectRatio="1:1" maxHeight=220 width="100%"/></grid-item></grid>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Siddhartha-Biswas-coder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/siddhartha-biswas-616042395/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
