@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Siddhartha Biswas
+# <p align="center">👋 Hi, I'm Siddhartha Biswas</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;AI+Application+Developer;Building+Production-Ready+AI+Products;RAG+%7C+LangGraph+%7C+Pinecone+%7C+React" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;AI+Application+Developer;Building+Production-Ready+AI+Products;RAG+%7C+LangGraph+%7C+Pinecone+%7C+React" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 <p align="center">
   I build production-ready AI applications, scalable backend systems, and modern full-stack experiences.
   <br/>
-  Currently building <b>Nexus</b>, an AI-powered research platform inspired by NotebookLM.
+  Currently building <b>Nexus</b>, a NotebookLM-inspired AI research platform powered by RAG architecture.
 </p>
 
 ---
@@ -23,29 +23,29 @@
 
 ## 🧠 Nexus — AI Research & Knowledge Platform *(Flagship Project)*
 
-> NotebookLM-inspired AI workspace with conversation-scoped document search, streaming responses, and production-ready RAG architecture.
+> NotebookLM-inspired AI workspace for intelligent document conversations with conversation-scoped retrieval, streaming responses, and production-ready architecture.
 
 ### ✨ Key Features
 
-* 📄 Chat with PDFs using semantic search
-* 📚 Conversation-scoped **Active Documents** workspace
-* ⚡ Real-time streaming AI responses with Socket.IO
-* 🎯 Page-aware chunking with source citations
-* 🔗 Clickable PDF references that open the exact page
-* 🧩 Local FastAPI embedding service
-* 🌲 LangGraph-powered AI workflows
-* 🗂️ Pinecone vector search with metadata filtering
-* 🔐 JWT authentication
-* 🎨 Premium macOS-inspired UI with Framer Motion
+- 📄 Chat with PDFs using semantic retrieval
+- 📚 Conversation-scoped **Active Documents** workspace
+- ⚡ Real-time streaming AI responses with Socket.IO
+- 🎯 Page-aware chunking with accurate source citations
+- 🔗 Clickable PDF references that open the exact cited page
+- 🧩 Local FastAPI embedding service
+- 🌲 LangGraph-powered AI workflows
+- 🗂️ Pinecone vector search with metadata filtering
+- 🔐 JWT authentication
+- 🎨 Premium macOS-inspired UI with Framer Motion animations
 
 ### 🏗️ Architecture
 
-* Service/Repository backend architecture
-* Express + TypeScript backend
-* React + Redux Toolkit frontend
-* FastAPI embedding microservice
-* Pinecone vector database
-* MongoDB for persistence
+- Service/Repository backend architecture
+- Express + TypeScript backend
+- React + Redux Toolkit frontend
+- FastAPI embedding microservice
+- Pinecone vector database
+- MongoDB persistence layer
 
 **Tech Stack**
 
@@ -53,7 +53,7 @@
 
 **Repository**
 
-<PRIVATE_URL>
+**GitHub:** https://github.com/Siddhartha-Biswas-coder/NEXUS-Industrial-AI-Platform
 
 ---
 
@@ -63,12 +63,12 @@
 
 ### ✨ Highlights
 
-* 🛍️ Premium shopping experience with Framer Motion animations
-* 🏗️ Service/Repository backend architecture
-* 🛒 MongoDB aggregation-powered shopping cart
-* 💳 Razorpay payment integration with HMAC verification
-* 👤 Buyer/Seller authentication with Google OAuth + JWT
-* 📦 Seller dashboard for inventory management
+- 🛍️ Premium shopping experience with Framer Motion animations
+- 🏗️ Service/Repository backend architecture
+- 🛒 Dynamic cart powered by MongoDB aggregation pipelines
+- 💳 Razorpay payment integration with HMAC verification
+- 👤 Buyer/Seller authentication with Google OAuth + JWT
+- 📦 Seller dashboard for product and inventory management
 
 **Tech**
 
@@ -90,11 +90,11 @@ https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-27-s
 
 ### ✨ Highlights
 
-* 😀 Real-time facial emotion detection
-* 🎧 Mood-based song recommendations
-* 🔐 JWT authentication
-* ☁️ ImageKit media storage
-* ⚡ Redis token management
+- 😀 Real-time facial emotion detection
+- 🎧 Mood-based song recommendations
+- 🔐 JWT authentication
+- ☁️ ImageKit media storage
+- ⚡ Redis token management
 
 **Tech**
 
@@ -112,15 +112,15 @@ https://moodify-ai-api.onrender.com
 
 ## 📸 InstaClone
 
-> Instagram-inspired social media platform built with production-ready architecture.
+> Instagram-inspired full-stack social media platform built with production-ready architecture.
 
 ### ✨ Highlights
 
-* 🔐 Cookie-based authentication
-* ❤️ Like & Follow system
-* 📷 Image uploads with ImageKit
-* ⚡ Redis session handling
-* 🚀 Vercel & Render deployment
+- 🔐 Cookie-based authentication
+- ❤️ Like and Follow system
+- 📷 Image uploads with ImageKit
+- ⚡ Redis session handling
+- 🚀 Vercel and Render deployment
 
 **Tech**
 
@@ -138,10 +138,10 @@ https://siddhartha-instaclone.vercel.app
 
 ### ✨ Highlights
 
-* 😊 Happy detection
-* 😲 Surprise detection
-* 😐 Neutral detection
-* 📹 Real-time webcam tracking
+- 😊 Happy detection
+- 😲 Surprise detection
+- 😐 Neutral detection
+- 📹 Real-time webcam tracking
 
 **Tech**
 
@@ -156,7 +156,7 @@ https://face-expression-detect.vercel.app
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,fastapi,mongodb,redis,docker,git,github,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,fastapi,mongodb,redis,docker,git,github,vscode,postman" />
 </p>
 
 ### 🤖 AI Engineering
