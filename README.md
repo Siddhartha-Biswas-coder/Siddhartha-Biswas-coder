@@ -1,8 +1,8 @@
-# <p align="center">👋 Hi, I'm Siddhartha Biswas</p>
+# 👋 Hi, I'm Siddhartha Biswas
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real-World+Applications;RAG+%7C+LangGraph+%7C+MongoDB+%7C+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;AI+Application+Developer;Building+Production-Ready+AI+Products;RAG+%7C+LangGraph+%7C+Pinecone+%7C+React" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -12,30 +12,48 @@
 </p>
 
 <p align="center">
-  I build AI-powered web applications, scalable backend systems, and AI-driven experiences.<br>
-  Currently building <b>Nexus</b>, an intelligent knowledge platform powered by RAG architecture.
+  I build production-ready AI applications, scalable backend systems, and modern full-stack experiences.
+  <br/>
+  Currently building <b>Nexus</b>, an AI-powered research platform inspired by NotebookLM.
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Nexus *(Flagship Project — In Progress)*
+## 🧠 Nexus — AI Research & Knowledge Platform *(Flagship Project)*
 
-> AI-powered research and knowledge platform with Retrieval-Augmented Generation (RAG).
+> NotebookLM-inspired AI workspace with conversation-scoped document search, streaming responses, and production-ready RAG architecture.
 
-### ✨ Highlights
+### ✨ Key Features
 
-- 📄 Chat with PDFs using semantic retrieval
-- 🔍 MongoDB Vector Search
-- 🤖 LangGraph-powered AI workflows
-- 🧩 Local Embedding Service with FastAPI
-- 🔐 Secure authentication system
-- ⚡ Scalable full-stack architecture
+* 📄 Chat with PDFs using semantic search
+* 📚 Conversation-scoped **Active Documents** workspace
+* ⚡ Real-time streaming AI responses with Socket.IO
+* 🎯 Page-aware chunking with source citations
+* 🔗 Clickable PDF references that open the exact page
+* 🧩 Local FastAPI embedding service
+* 🌲 LangGraph-powered AI workflows
+* 🗂️ Pinecone vector search with metadata filtering
+* 🔐 JWT authentication
+* 🎨 Premium macOS-inspired UI with Framer Motion
 
-**Tech:** `React` • `TypeScript` • `Node.js` • `Express` • `FastAPI` • `MongoDB` • `LangGraph` • `Docker`
+### 🏗️ Architecture
 
-**Repository:** https://github.com/Siddhartha-Biswas-coder/NEXUS-Industrial-AI-Platform
+* Service/Repository backend architecture
+* Express + TypeScript backend
+* React + Redux Toolkit frontend
+* FastAPI embedding microservice
+* Pinecone vector database
+* MongoDB for persistence
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Redux Toolkit` • `Node.js` • `Express` • `FastAPI` • `MongoDB` • `Pinecone` • `LangGraph` • `Socket.IO` • `Tailwind CSS`
+
+**Repository**
+
+<PRIVATE_URL>
 
 ---
 
@@ -45,18 +63,24 @@
 
 ### ✨ Highlights
 
-- 🛍️ Premium shopping experience with Framer Motion animations
-- 🏗️ Service/Repository architecture for scalable backend design
-- 🛒 Dynamic cart powered by MongoDB aggregation pipelines
-- 💳 Razorpay payment integration with HMAC verification
-- 👤 Buyer/Seller authentication with Google OAuth and JWT
-- 📦 Seller dashboard for product and inventory management
+* 🛍️ Premium shopping experience with Framer Motion animations
+* 🏗️ Service/Repository backend architecture
+* 🛒 MongoDB aggregation-powered shopping cart
+* 💳 Razorpay payment integration with HMAC verification
+* 👤 Buyer/Seller authentication with Google OAuth + JWT
+* 📦 Seller dashboard for inventory management
 
-**Tech:** `React 19` • `Vite` • `Redux Toolkit` • `Tailwind CSS` • `Node.js` • `Express` • `MongoDB` • `Passport.js` • `JWT`
+**Tech**
 
-**Live Demo:** https://lumiere-chi-mocha.vercel.app/
+`React 19` • `Vite` • `Redux Toolkit` • `Tailwind CSS` • `Node.js` • `Express` • `MongoDB` • `Passport.js`
 
-**Repository:** https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-27-snitch
+**Live Demo**
+
+https://lumiere-chi-mocha.vercel.app/
+
+**Repository**
+
+https://github.com/Siddhartha-Biswas-coder/cohort-2.0/tree/main/backend/day-27-snitch
 
 ---
 
@@ -66,35 +90,45 @@
 
 ### ✨ Highlights
 
-- 😀 Real-time face expression detection
-- 🎧 Mood-based song recommendations
-- 🔐 JWT authentication
-- ☁️ ImageKit media storage
-- ⚡ Redis token management
+* 😀 Real-time facial emotion detection
+* 🎧 Mood-based song recommendations
+* 🔐 JWT authentication
+* ☁️ ImageKit media storage
+* ⚡ Redis token management
 
-**Tech:** `React` • `Node.js` • `MongoDB` • `Redis` • `MediaPipe`
+**Tech**
 
-**Live Demo:** https://moodify-ai-git-main-siddhartha-biswas-projects.vercel.app
+`React` • `Node.js` • `MongoDB` • `Redis` • `MediaPipe`
 
-**Backend:** https://moodify-ai-api.onrender.com
+**Live Demo**
+
+https://moodify-ai-git-main-siddhartha-biswas-projects.vercel.app
+
+**Backend**
+
+https://moodify-ai-api.onrender.com
 
 ---
 
 ## 📸 InstaClone
 
-> Instagram-inspired full-stack social media application built with production-ready architecture.
+> Instagram-inspired social media platform built with production-ready architecture.
 
 ### ✨ Highlights
 
-- 🔐 Cookie-based authentication
-- ❤️ Like and Follow system
-- 📷 Image uploads with ImageKit
-- ⚡ Redis session handling
-- 🚀 Vercel and Render deployment
+* 🔐 Cookie-based authentication
+* ❤️ Like & Follow system
+* 📷 Image uploads with ImageKit
+* ⚡ Redis session handling
+* 🚀 Vercel & Render deployment
 
-**Tech:** `React` • `Express` • `MongoDB` • `Redis`
+**Tech**
 
-**Live Demo:** https://siddhartha-instaclone.vercel.app
+`React` • `Express` • `MongoDB` • `Redis`
+
+**Live Demo**
+
+https://siddhartha-instaclone.vercel.app
 
 ---
 
@@ -104,31 +138,36 @@
 
 ### ✨ Highlights
 
-- 😊 Happy detection
-- 😲 Surprise detection
-- 😐 Neutral detection
-- 📹 Real-time webcam tracking
+* 😊 Happy detection
+* 😲 Surprise detection
+* 😐 Neutral detection
+* 📹 Real-time webcam tracking
 
-**Tech:** `React` • `MediaPipe`
+**Tech**
 
-**Live Demo:** https://face-expression-detect.vercel.app
+`React` • `MediaPipe`
+
+**Live Demo**
+
+https://face-expression-detect.vercel.app
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,fastapi,mongodb,redis,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,fastapi,mongodb,redis,docker,git,github,vscode,postman"/>
 </p>
 
-### 🤖 AI & ML
+### 🤖 AI Engineering
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-0052FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB_Vector_Search-13AA52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
